@@ -9,4 +9,4 @@ sort every line with sort and print the unic one with uniq -u
 
 VULNERABILITIES;
 
-should i explain this, huuh ?
+the fact that your password is in a giant .txt file doesnt protect you at all
