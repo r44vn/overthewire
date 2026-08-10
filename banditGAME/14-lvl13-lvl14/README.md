@@ -11,7 +11,7 @@ you will need to use the passsword from the previous level to get the file trans
     $ scp -P 2220 bandit13@bandit.labs.overthewire.org:/home/bandit13/sshkey.private .
 
 * -P select the port 2220
-* bandit13 is the username of the machine ???
+* bandit13 is your username once you are connected 
 * bandit.labs.overthewire.org is the address of the server communly used to access all the other levels
 * /home/bandit13/sshkey.private is the full path of the file
 * . is the destination file, according to the functionning of scp ($scp -[flag] src dest)
